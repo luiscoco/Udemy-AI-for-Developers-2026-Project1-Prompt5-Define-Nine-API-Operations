@@ -1,4 +1,4 @@
-# Defining the API Contract: Step by Step
+# Defining the API Contract
 
 This note walks through how `packages/contract/openapi.yaml` was extended
 with the nine API operations for the Equipment Maintenance Hub. It's meant
